@@ -80,6 +80,7 @@ def ordered_yaml(cfg):
              'interaction_predict_filters',
              'choice_column', 'sample_size', 'estimation_sample_size',
              'model_expression', 'ytransform', 'min_segment_size',
+             'probability_mode', 'choice_mode', 'remove_alts',
              'default_config', 'models', 'coefficients', 'fitted']
 
     s = []
